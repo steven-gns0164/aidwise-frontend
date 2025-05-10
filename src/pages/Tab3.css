@@ -1,0 +1,15 @@
+.custom-toolbar {
+  --background: #2e2e1f;
+  padding: 0 16px;
+  height: 60px;
+}
+
+.toolbar-left {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  height: 50px; /* ukuran logo disesuaikan */
+  margin-right: 8px;
+}
