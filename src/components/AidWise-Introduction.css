@@ -1,0 +1,16 @@
+.intro {
+  text-align: center;
+  background: linear-gradient(#fcf6bc, #fcef83);
+  padding: 3%;
+}
+
+.intro h1 {
+  font-weight: 600;
+  font-size: 60px;
+  line-height: 25px;
+}
+
+.intro p{
+  font-size: 16px;
+  color: #2e2d26;
+}   
