@@ -1,4 +1,6 @@
 import './AppTitle.css';
+import AidWiseTeam from './AidWise-Team';
+import AidWiseIntroduction from './AidWise-Introduction';
 
 interface ContainerProps {
   name: string;

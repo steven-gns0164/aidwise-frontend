@@ -25,7 +25,7 @@ const AidWiseFooter: React.FC<ContainerProps> = ({ name }) => {
         <li><a href="#">PKH</a></li>
         <li><a href="#">BNPT</a></li>
         <li><a href="#">About AidWise</a></li>
-        <li><a href="#">Our Team</a></li>
+        <li><a href="#team">Our Team</a></li>
         </ul>
   </div>
 

@@ -7,7 +7,7 @@ interface ContainerProps {
 
 const AidWiseTeam: React.FC<ContainerProps> = ({ name }) => {
   return (
-    <section className='team'>
+    <section id='team' className='team'>
         <div className="team-section">
             <h2 className="team-title">{name}</h2>
         <div className="team-container">

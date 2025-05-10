@@ -3,6 +3,7 @@ import './Tab2.css';
 import AidWiseIntroduction from '../components/AidWise-Introduction';
 import AidWiseTeam from '../components/AidWise-Team'
 import AidWiseFooter from '../components/AidWise-Footer'
+import PKHForm from '../components/AidWise-PKH-Form';
 
 const Tab2: React.FC = () => {
   return (
@@ -20,9 +21,10 @@ const Tab2: React.FC = () => {
             <IonTitle size="large">Tab 2</IonTitle>
           </IonToolbar>
         </IonHeader>
+        <PKHForm name=''/>
         <AidWiseIntroduction name="AidWise" />
         <IonImg src='landscape.png' />
-        <AidWiseFooter name="AidWise"/>
+        <AidWiseFooter name=''/>
       </IonContent>
     </IonPage>
   );
